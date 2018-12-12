@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings>
+    <add key="RpcUrl" value="http://localhost:8332"/>
+    <add key="RpcUsername" value="alice"/>
+    <add key="RpcPassword" value="DONT_USE_THIS_YOU_WILL_GET_ROBBED_8ak1gI25KFTvjovL3gAM967mies3E="/>
+  </appSettings>
+</configuration>
